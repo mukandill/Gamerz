@@ -1155,11 +1155,6 @@ body a , body :hover, body :focus
 	
 	/* Start Slider */
 	
-	.slider
-	{
-		height: 670px;
-	}
-	
 	.slider > i
 	{
 		font-size: 28px;
@@ -1167,10 +1162,10 @@ body a , body :hover, body :focus
 	
 	.slider .slider-content .title-img
 	{
-		max-height: 27.9%;
-		bottom: 55px;
+		max-height: 24%;
+		bottom: 60px;
 		padding: 20px;
-		font-size: 29.5px;
+		font-size: 26.5px;
 	}
 
 	/* End Slider */
