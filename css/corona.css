@@ -381,7 +381,7 @@ body a , body :hover, body :focus
 .content .articles .article .art-img
 {
 	width:100%;
-	height: 242px;
+	height: 255px;
 	overflow:hidden;
 	background:none;
 	border-top-right-radius: 14px;
@@ -402,7 +402,7 @@ body a , body :hover, body :focus
 
 .content .articles .article .art-details .art-title
 {
-	max-height:54px;
+	max-height:120px;
 	overflow: hidden;
 	padding:7px 0;
 	margin:8.28px 0;
@@ -886,6 +886,7 @@ body a , body :hover, body :focus
 	
 	.content .articles .article .art-img
 	{
+		height: 242px;
 		width: 40%;
 	}
 	
@@ -896,6 +897,7 @@ body a , body :hover, body :focus
 	
 	.content .articles .article .art-details .art-title
 	{
+		max-height:54px;
 		font-size: 18px;
 	}
 	
