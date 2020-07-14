@@ -153,7 +153,7 @@ body a , body :hover, body :focus
 	justify-content: center;
 	align-items: center;
 	border-radius: 50px;
-	margin: 6px 16px 12px 0;
+	margin: 15px 16px 12px 0;
 	background: #141414;
 	overflow: hidden;
 	padding: 7px;
@@ -278,6 +278,7 @@ body a , body :hover, body :focus
 	padding: 15px 10px;
 	text-align: right;
 	word-wrap: break-word;
+	line-height: 1.3;
 }
 
 @keyframes slider /* KEY FRAMES SLIDER */
@@ -840,7 +841,7 @@ body a , body :hover, body :focus
 	.slider .slider-content .title-img
 	{
 		font-size: 24.5px;
-		max-height: 28.7%;
+		max-height: 27.7%;
 		bottom: 35px;
 		max-width: 46%;
 	}
@@ -1137,6 +1138,7 @@ body a , body :hover, body :focus
 		width: 14.52%;
 		margin-bottom: 15px;
 		padding: 4px;
+		margin-top: 6px;
 	}
 	
 	.header .search i
@@ -1162,7 +1164,7 @@ body a , body :hover, body :focus
 	
 	.slider .slider-content .title-img
 	{
-		max-height: 24%;
+		max-height: 23%;
 		bottom: 60px;
 		padding: 20px;
 		font-size: 26.5px;
