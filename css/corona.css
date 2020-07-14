@@ -23,6 +23,12 @@ body a , body :hover, body :focus
 	text-decoration:none;
 }
 
+body ::selection
+{
+	background:#b0b0b0;
+	color:#fff
+}
+
 /* End body */
 
 /* Start Header */
